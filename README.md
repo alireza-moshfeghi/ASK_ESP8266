@@ -129,20 +129,6 @@ You will see the main dashboard.
 
 ---
 
-## 📁 Repository Structure
-
-\`\`\`
-/
-├── firmware/          # Arduino/PlatformIO code
-├── docs/              # Wiring diagrams & manual
-├── web/               # HTML/CSS/JS dashboard files
-├── image1.jpg         # System preview screenshot
-├── README.md          # This file
-└── LICENSE            # MIT License
-\`\`\`
-
----
-
 ## 📜 License
 
 This project is open-source under the **MIT License**.  
