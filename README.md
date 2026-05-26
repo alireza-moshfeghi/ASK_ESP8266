@@ -5,7 +5,7 @@
 **A professional middleware for capturing, saving, and cloning wireless remote control codes (ASK/OOK)**  
 Ideal for **alarm systems**, **automatic gates**, **garage doors**, and other RF remote-controlled devices.
 
-![Platform](https://img.shields.io/badge/Platform-ESP8266%20%7C%20ESP32-blue)
+![Platform](https://img.shields.io/badge/Platform-ESP8266%20%7C)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![RF](https://img.shields.io/badge/Technology-ASK%2FOOK%20RF-orange)
 
